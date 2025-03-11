@@ -8,10 +8,6 @@ This project explores the relationship between sleep duration, caffeine intake, 
 - Ensure Conda is added to your system PATH and accessible via terminal (`conda --version` should return a version number).
 
 ## Installation & Setup
-
-
-
-
 1. **Clone the repository**
    ```sh
    git clone git@github.com:Jelles/ML-Model.git
