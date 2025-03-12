@@ -41,6 +41,9 @@ ipython_config.py
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
 
+# Idea
+.idea
+
 # Gradle
 .idea/**/gradle.xml
 .idea/**/libraries
