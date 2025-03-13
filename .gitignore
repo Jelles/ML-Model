@@ -29,6 +29,9 @@ ipython_config.py
 # AWS User-specific
 .idea/**/aws.xml
 
+# Idea
+.idea/
+
 # Generated files
 .idea/**/contentModel.xml
 
